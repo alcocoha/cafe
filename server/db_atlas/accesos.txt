@@ -1,0 +1,4 @@
+Usuario: jorgehurtado
+Password: Xc2xMnK4fNPdJlPo
+
+mongodburl: mongodb+srv://jorgehurtado:<password>@cluster0.j4s6n.mongodb.net/test
